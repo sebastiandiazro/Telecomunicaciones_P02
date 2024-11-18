@@ -1,5 +1,5 @@
 Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
-2014,1,Buenos Aires,120960.0,0.0,100.0
+2014,1,Buenos Aires,120960.0,0.0,0.0
 2014,2,Buenos Aires,120008.0,120960.0,-0.79
 2014,3,Buenos Aires,124474.0,120008.0,3.72
 2014,4,Buenos Aires,120528.0,124474.0,-3.17
@@ -40,7 +40,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,3,Buenos Aires,1740239.0,1645945.0,5.73
 2023,4,Buenos Aires,1784593.0,1740239.0,2.55
 2024,2,Buenos Aires,1849476.0,1784593.0,3.64
-2014,1,Capital Federal,17767.0,0.0,100.0
+2014,1,Capital Federal,17767.0,0.0,0.0
 2014,2,Capital Federal,17729.0,17767.0,-0.21
 2014,3,Capital Federal,17886.0,17729.0,0.89
 2014,4,Capital Federal,17155.0,17886.0,-4.09
@@ -82,7 +82,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Capital Federal,182520.0,167428.0,9.01
 2024,1,Capital Federal,203756.0,182520.0,11.63
 2024,2,Capital Federal,230402.0,203756.0,13.08
-2014,1,Catamarca,17.0,0.0,100.0
+2014,1,Catamarca,17.0,0.0,0.0
 2014,2,Catamarca,17.0,17.0,0.0
 2014,3,Catamarca,15.0,17.0,-11.76
 2014,4,Catamarca,16.0,15.0,6.67
@@ -124,7 +124,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Catamarca,55437.0,54650.0,1.44
 2024,1,Catamarca,56542.0,55437.0,1.99
 2024,2,Catamarca,58355.0,56542.0,3.21
-2014,1,Chaco,30.0,0.0,100.0
+2014,1,Chaco,30.0,0.0,0.0
 2014,2,Chaco,30.0,30.0,0.0
 2014,3,Chaco,29.0,30.0,-3.33
 2014,4,Chaco,31.0,29.0,6.9
@@ -166,7 +166,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Chaco,62301.0,54993.0,13.29
 2024,1,Chaco,64463.0,62301.0,3.47
 2024,2,Chaco,68944.0,64463.0,6.95
-2014,1,Chubut,866.0,0.0,100.0
+2014,1,Chubut,866.0,0.0,0.0
 2014,2,Chubut,866.0,866.0,0.0
 2014,3,Chubut,882.0,866.0,1.85
 2014,4,Chubut,891.0,882.0,1.02
@@ -208,7 +208,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Chubut,26174.0,25827.0,1.34
 2024,1,Chubut,26356.0,26174.0,0.7
 2024,2,Chubut,26516.0,26356.0,0.61
-2014,1,Corrientes,31.0,0.0,100.0
+2014,1,Corrientes,31.0,0.0,0.0
 2014,2,Corrientes,31.0,31.0,0.0
 2014,3,Corrientes,31.0,31.0,0.0
 2014,4,Corrientes,40.0,31.0,29.03
@@ -250,7 +250,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Corrientes,35968.0,36032.0,-0.18
 2024,1,Corrientes,38268.0,35968.0,6.39
 2024,2,Corrientes,39792.0,38268.0,3.98
-2014,1,Córdoba,347.0,0.0,100.0
+2014,1,Córdoba,347.0,0.0,0.0
 2014,2,Córdoba,351.0,347.0,1.15
 2014,3,Córdoba,444.0,351.0,26.5
 2014,4,Córdoba,419.0,444.0,-5.63
@@ -292,7 +292,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Córdoba,440536.0,417338.0,5.56
 2024,1,Córdoba,458985.0,440536.0,4.19
 2024,2,Córdoba,477504.0,458985.0,4.03
-2014,1,Entre Ríos,49.0,0.0,100.0
+2014,1,Entre Ríos,49.0,0.0,0.0
 2014,2,Entre Ríos,49.0,49.0,0.0
 2014,3,Entre Ríos,48.0,49.0,-2.04
 2014,4,Entre Ríos,57.0,48.0,18.75
@@ -334,7 +334,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Entre Ríos,61667.0,54794.0,12.54
 2024,1,Entre Ríos,66180.0,61667.0,7.32
 2024,2,Entre Ríos,68540.0,66180.0,3.57
-2014,1,Formosa,0.0,0.0,100.0
+2014,1,Formosa,0.0,0.0,0.0
 2014,2,Formosa,0.0,0.0,100.0
 2014,3,Formosa,0.0,0.0,100.0
 2014,4,Formosa,1.0,0.0,100.0
@@ -376,7 +376,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Formosa,16179.0,14904.0,8.55
 2024,1,Formosa,17908.0,16179.0,10.69
 2024,2,Formosa,18977.0,17908.0,5.97
-2014,1,Jujuy,23.0,0.0,100.0
+2014,1,Jujuy,23.0,0.0,0.0
 2014,2,Jujuy,23.0,23.0,0.0
 2014,3,Jujuy,22.0,23.0,-4.35
 2014,4,Jujuy,22.0,22.0,0.0
@@ -418,7 +418,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Jujuy,49947.0,48350.0,3.3
 2024,1,Jujuy,51084.0,49947.0,2.28
 2024,2,Jujuy,53492.0,51084.0,4.71
-2014,1,La Pampa,513.0,0.0,100.0
+2014,1,La Pampa,513.0,0.0,0.0
 2014,2,La Pampa,513.0,513.0,0.0
 2014,3,La Pampa,538.0,513.0,4.87
 2014,4,La Pampa,514.0,538.0,-4.46
@@ -460,7 +460,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,La Pampa,34331.0,32891.0,4.38
 2024,1,La Pampa,35556.0,34331.0,3.57
 2024,2,La Pampa,37226.0,35556.0,4.7
-2014,1,La Rioja,14.0,0.0,100.0
+2014,1,La Rioja,14.0,0.0,0.0
 2014,2,La Rioja,14.0,14.0,0.0
 2014,3,La Rioja,14.0,14.0,0.0
 2014,4,La Rioja,17.0,14.0,21.43
@@ -502,7 +502,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,La Rioja,22559.0,22054.0,2.29
 2024,1,La Rioja,23086.0,22559.0,2.34
 2024,2,La Rioja,23294.0,23086.0,0.9
-2014,1,Mendoza,2480.0,0.0,100.0
+2014,1,Mendoza,2480.0,0.0,0.0
 2014,2,Mendoza,2480.0,2480.0,0.0
 2014,3,Mendoza,2512.0,2480.0,1.29
 2014,4,Mendoza,2534.0,2512.0,0.88
@@ -544,7 +544,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Mendoza,182220.0,178719.0,1.96
 2024,1,Mendoza,185460.0,182220.0,1.78
 2024,2,Mendoza,188815.0,185460.0,1.81
-2014,1,Misiones,4.0,0.0,100.0
+2014,1,Misiones,4.0,0.0,0.0
 2014,2,Misiones,4.0,4.0,0.0
 2014,3,Misiones,4.0,4.0,0.0
 2014,4,Misiones,16.0,4.0,300.0
@@ -586,7 +586,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Misiones,75382.0,70003.0,7.68
 2024,1,Misiones,81498.0,75382.0,8.11
 2024,2,Misiones,87389.0,81498.0,7.23
-2014,1,Neuquén,997.0,0.0,100.0
+2014,1,Neuquén,997.0,0.0,0.0
 2014,2,Neuquén,997.0,997.0,0.0
 2014,3,Neuquén,1000.0,997.0,0.3
 2014,4,Neuquén,1014.0,1000.0,1.4
@@ -628,7 +628,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Neuquén,41583.0,39243.0,5.96
 2024,1,Neuquén,41577.0,41583.0,-0.01
 2024,2,Neuquén,41784.0,41577.0,0.5
-2014,1,Río Negro,876.0,0.0,100.0
+2014,1,Río Negro,876.0,0.0,0.0
 2014,2,Río Negro,876.0,876.0,0.0
 2014,3,Río Negro,888.0,876.0,1.37
 2014,4,Río Negro,901.0,888.0,1.46
@@ -670,7 +670,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Río Negro,64323.0,56668.0,13.51
 2024,1,Río Negro,66889.0,64323.0,3.99
 2024,2,Río Negro,67636.0,66889.0,1.12
-2014,1,Salta,45.0,0.0,100.0
+2014,1,Salta,45.0,0.0,0.0
 2014,2,Salta,45.0,45.0,0.0
 2014,3,Salta,43.0,45.0,-4.44
 2014,4,Salta,48.0,43.0,11.63
@@ -712,7 +712,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Salta,60800.0,59914.0,1.48
 2024,1,Salta,61543.0,60800.0,1.22
 2024,2,Salta,64689.0,61543.0,5.11
-2014,1,San Juan,722.0,0.0,100.0
+2014,1,San Juan,722.0,0.0,0.0
 2014,2,San Juan,722.0,722.0,0.0
 2014,3,San Juan,731.0,722.0,1.25
 2014,4,San Juan,740.0,731.0,1.23
@@ -754,7 +754,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,San Juan,42691.0,42383.0,0.73
 2024,1,San Juan,44904.0,42691.0,5.18
 2024,2,San Juan,45792.0,44904.0,1.98
-2014,1,San Luis,354.0,0.0,100.0
+2014,1,San Luis,354.0,0.0,0.0
 2014,2,San Luis,354.0,354.0,0.0
 2014,3,San Luis,355.0,354.0,0.28
 2014,4,San Luis,355.0,355.0,0.0
@@ -796,7 +796,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,San Luis,30135.0,24525.0,22.87
 2024,1,San Luis,31539.0,30135.0,4.66
 2024,2,San Luis,34255.0,31539.0,8.61
-2014,1,Santa Cruz,381.0,0.0,100.0
+2014,1,Santa Cruz,381.0,0.0,0.0
 2014,2,Santa Cruz,381.0,381.0,0.0
 2014,3,Santa Cruz,385.0,381.0,1.05
 2014,4,Santa Cruz,388.0,385.0,0.78
@@ -838,7 +838,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Santa Cruz,55246.0,11270.0,390.2
 2024,1,Santa Cruz,49545.0,55246.0,-10.32
 2024,2,Santa Cruz,49545.0,49545.0,0.0
-2014,1,Santa Fe,3059.0,0.0,100.0
+2014,1,Santa Fe,3059.0,0.0,0.0
 2014,2,Santa Fe,3085.0,3059.0,0.85
 2014,3,Santa Fe,4407.0,3085.0,42.85
 2014,4,Santa Fe,3205.0,4407.0,-27.27
@@ -880,7 +880,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Santa Fe,355762.0,336013.0,5.88
 2024,1,Santa Fe,374288.0,355762.0,5.21
 2024,2,Santa Fe,390090.0,374288.0,4.22
-2014,1,Santiago Del Estero,19.0,0.0,100.0
+2014,1,Santiago Del Estero,19.0,0.0,0.0
 2014,2,Santiago Del Estero,19.0,19.0,0.0
 2014,3,Santiago Del Estero,19.0,19.0,0.0
 2014,4,Santiago Del Estero,19.0,19.0,0.0
@@ -922,7 +922,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Santiago Del Estero,24271.0,21745.0,11.62
 2024,1,Santiago Del Estero,27018.0,24271.0,11.32
 2024,2,Santiago Del Estero,30008.0,27018.0,11.07
-2014,1,Tierra Del Fuego,648.0,0.0,100.0
+2014,1,Tierra Del Fuego,648.0,0.0,0.0
 2014,2,Tierra Del Fuego,648.0,648.0,0.0
 2014,3,Tierra Del Fuego,650.0,648.0,0.31
 2014,4,Tierra Del Fuego,655.0,650.0,0.77
@@ -964,7 +964,7 @@ Año,Trimestre,Provincia,Fibra óptica,Accesos trimestre anterior,KPI
 2023,4,Tierra Del Fuego,3682.0,3682.0,0.0
 2024,1,Tierra Del Fuego,3684.0,3682.0,0.05
 2024,2,Tierra Del Fuego,3684.0,3684.0,0.0
-2014,1,Tucumán,121.0,0.0,100.0
+2014,1,Tucumán,121.0,0.0,0.0
 2014,2,Tucumán,121.0,121.0,0.0
 2014,3,Tucumán,117.0,121.0,-3.31
 2014,4,Tucumán,116.0,117.0,-0.85
