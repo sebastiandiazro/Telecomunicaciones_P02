@@ -2,7 +2,7 @@
 # <h1 align="center">**`Telecomunicaciones PI02 `**</h1>
 
 <p align="center">
-<img src="Telecomunicaciones.pgn"  height=300>
+<img src="Telecomunicaciones.png"  height=300>
 </p>
 
 ## **Descripción del problema y contexto**
