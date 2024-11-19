@@ -19,7 +19,7 @@ Este proyecto tiene como objetivo realizar un análisis del sector de las teleco
 - **Python** (pandas, matplotlib, seaborn): Utilizado para el análisis exploratorio de datos (EDA).
 - **Power BI:** Utilizado para el diseño y desarrollo del dashboard interactivo.
 
-#### Análisis Exploratorio de Datos (EDA): :mag: :eyes: :memo:
+#### Análisis Exploratorio de Datos (EDA): 
 
 Basandome en la principal actividad de la empresa que es el acceso a internet y teniendo en cuenta el Kpi propuesto, hice una seleccion de hojas a utilizar para tener una vision mas enfocada del mercado de internet en Argentina y que nuestro analisis este alineado. Se realizó un EDA exhaustivo utilizando Python en un Jupyter Notebook, donde se limpiaron, exploraron y visualizaron los datos para identificar patrones y tendencias clave.
 
